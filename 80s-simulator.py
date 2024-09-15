@@ -5,7 +5,7 @@ from random import randint, shuffle
 
 
 commercialPath = "C:/Users/~" #main slopfolder (see other script)
-contentpath = "C:/Users/~" #where you put the stuff you actually wanna watch (currently doesnt support serialized content, Sorry!)
+contentpath = "C:/Users/~" #where you put the stuff you actually wanna watch i.e. tv shows, movies, etc. (currently doesnt support serialized content, Sorry!)
 #THESE TWO FOLDERS SHOULD BE DIFFERENT OR IT WILL EXPLODE!!!!!!!!!!!
 
 do_commercials = True #this is the optimal configuration
