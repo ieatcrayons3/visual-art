@@ -4,7 +4,7 @@ month = randint(1,12) #i guess you can specify the month too?
 results = 3 #number of things you want to download. keep this number low because if you get bored halfway through it will corrupt files
 searchfor = "commercial" #type of content you want
 
-filepath = "C:/Users/~/OneDrive/Desktop/Personal/Dev/" #main directory for your slopfolder (it will build its own subdirectories for year and month)
+filepath = "C:/Users/~" #main directory for your slopfolder (it will build its own subdirectories for year and month)
 
 from internetarchive import download, search_items #internetarchive bindings (not necessary to play just for downloading)
 import os
