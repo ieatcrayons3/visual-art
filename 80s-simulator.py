@@ -4,8 +4,9 @@ import os
 from random import randint, shuffle
 
 
-commercialPath = "C:/Users/~/OneDrive/Desktop/Personal/Dev/" #main slopfolder (see other script)
-contentpath = "C:/Users/~/Videos/NGE/" #where you put the stuff you actually wanna watch (currently doesnt support serialized content, Sorry!)
+commercialPath = "C:/Users/~" #main slopfolder (see other script)
+contentpath = "C:/Users/~" #where you put the stuff you actually wanna watch (currently doesnt support serialized content, Sorry!)
+#THESE TWO FOLDERS SHOULD BE DIFFERENT OR IT WILL EXPLODE!!!!!!!!!!!
 
 do_commercials = True #this is the optimal configuration
 do_content = False
